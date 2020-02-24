@@ -1,0 +1,46 @@
+body
+
+{
+    margin: 0; 
+
+   text-align: center; 
+
+}
+ 
+ 
+#conteneur
+
+{
+	margin-left: auto;
+ 	
+ 	margin-right: auto;
+  	
+  	width: 1200px;
+  	
+  	text-align: left; 
+}
+
+a
+{
+	text-decoration: none;
+
+	color: #000;
+}
+
+.chapitreInvalide
+
+{
+	color: grey;
+}
+
+#precendent
+
+{
+	margin-right: 600px;
+}
+
+#suivant
+
+{
+	margin-left: 850px;
+}
